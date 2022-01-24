@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan Foye (@5w00p)
-- 👀 I’m interested in front-end development & machine learning.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on web development.
+- 👀 I’m interested in full stack development and related technologies.
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: ddfoye@gmail.com
 
 <!---
